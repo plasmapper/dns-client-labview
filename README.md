@@ -1,5 +1,5 @@
 # DNS Client Library for LabVIEW
-DNS client Library for LabVIEW. 
+DNS client library for LabVIEW. 
 
 ## Requirements
 LabVIEW 2015 and higher.
