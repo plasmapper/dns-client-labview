@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 11:37:44" Modified_Date="2022-04-04 20:28:33" Creator="Researcher" Comments="" ID="b264bb84106c111b25661e78fa1d2b7e">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 11:37:44" Modified_Date="2022-04-05 20:23:17" Creator="Researcher" Comments="" ID="05874b20fb569abc230f718ba79fbfd9">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_DNS_Client</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
@@ -278,7 +278,7 @@ Features:
         <Path>Public\Parse Domain Name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C3EA8B6FEF1629795D110649EE4BD5E0</GUID>
+      <GUID>9C82EE005892AC09551A7D2D8168EA8A</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
