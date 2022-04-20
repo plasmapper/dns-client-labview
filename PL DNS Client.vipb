@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 11:37:44" Modified_Date="2022-04-07 21:05:03" Creator="Researcher" Comments="" ID="1bf34ec3f3dacd1fbeacea5f37872b89">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 11:37:44" Modified_Date="2022-04-20 17:54:53" Creator="Researcher" Comments="" ID="cbaf70f5f703c74fe4f8f6d033429d1b">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_DNS_Client</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\build\dns-client-labview</Library_Output_Folder>
+    <Library_Output_Folder>..\build</Library_Output_Folder>
     <Company_Name>plasmapper</Company_Name>
     <Library_Summary/>
     <Library_License>MIT</Library_License>
@@ -278,7 +278,7 @@ Features:
         <Path>Public\Parse Domain Name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E23349D67E77779D108372DA3B4A4D7B</GUID>
+      <GUID>CC958E0D51BAC5B62E62AB7FB0621638</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
