@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 11:37:44" Modified_Date="2022-04-20 17:54:53" Creator="Researcher" Comments="" ID="cbaf70f5f703c74fe4f8f6d033429d1b">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 11:37:44" Modified_Date="2022-04-28 17:51:02" Creator="Researcher" Comments="" ID="28a97254cc5c40467903844ea560907b">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_DNS_Client</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
@@ -29,9 +29,6 @@
     <Description>
       <One_Line_Description_Summary>DNS client library for LabVIEW</One_Line_Description_Summary>
       <Description>DNS client library for LabVIEW.
-
-Requirements:
-LabVIEW 2015 and higher.
 
 Features:
 1. DNS-over-UDP and DNS-over-TCP.
@@ -278,7 +275,7 @@ Features:
         <Path>Public\Parse Domain Name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CC958E0D51BAC5B62E62AB7FB0621638</GUID>
+      <GUID>7EBE6D4ECAF1153EE7A65008818E30B2</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
