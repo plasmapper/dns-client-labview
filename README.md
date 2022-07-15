@@ -3,6 +3,9 @@
 ## Requirements
 LabVIEW 2015 and higher.
 
+## Installation
+[VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_dns_client/)
+
 ## Features 
 1. DNS-over-UDP and DNS-over-TCP.
 2. Multicast DNS (mDNS).
