@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 11:37:44" Modified_Date="2022-08-02 18:32:46" Creator="Researcher" Comments="" ID="dc5772503e2097ea4244da8752621e52">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 11:37:44" Modified_Date="2023-01-31 14:42:45" Creator="Researcher" Comments="" ID="3d42fda6b2d7d20888f1aabeb2f63377">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_DNS_Client</Package_File_Name>
-    <Library_Version>1.0.1.4</Library_Version>
+    <Library_Version>1.0.2.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -37,8 +37,8 @@ Features:
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/dns-client-labview</URL>
-      <Release_Notes>Changed
-- Fixed missing output terminals.</Release_Notes>
+      <Release_Notes>Fixed
+- Fixed authority and additional record parsing (issue #1).</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -276,7 +276,7 @@ Features:
         <Path>Public\Parse Domain Name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>14827B15CF4D2ECAA9EED20288ABCA0E</GUID>
+      <GUID>CE466E2E1E61CA80EB6B7FB99D354255</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
